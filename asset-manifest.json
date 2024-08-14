@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6f56ac16.css",
-    "main.js": "/static/js/main.108f6c22.js",
+    "main.js": "/static/js/main.1c630ca2.js",
     "static/media/UTransit.png": "/static/media/UTransit.ea9a677786c0c2702519.png",
     "static/media/background.png": "/static/media/background.46dc9e5c5486c107a481.png",
     "static/media/goldy-gopher.png": "/static/media/goldy-gopher.2877b43d3f7b3727546b.png",
@@ -21,10 +21,10 @@
     "static/media/About.svg": "/static/media/About.df4a8c9ce01b7404e4a85d95446b8b3a.svg",
     "static/media/education.svg": "/static/media/education.e99ff7566f71dee3d21c29cc04b89737.svg",
     "main.6f56ac16.css.map": "/static/css/main.6f56ac16.css.map",
-    "main.108f6c22.js.map": "/static/js/main.108f6c22.js.map"
+    "main.1c630ca2.js.map": "/static/js/main.1c630ca2.js.map"
   },
   "entrypoints": [
     "static/css/main.6f56ac16.css",
-    "static/js/main.108f6c22.js"
+    "static/js/main.1c630ca2.js"
   ]
 }
