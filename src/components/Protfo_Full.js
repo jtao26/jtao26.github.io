@@ -85,9 +85,7 @@ const Protfo_Full = () => {
                     </div>
                 </div>
                 <br></br>
-                <div>
-                    More are comming on the way..
-                </div>
+
             </div>
     )
 }
