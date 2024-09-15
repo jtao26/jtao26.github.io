@@ -7,6 +7,7 @@ import EduText from '../assets/images/edu-text.svg'
 import BlueJay from '../assets/images/blue-jay.svg'
 import Gopher from '../assets/images/goldy-gopher.png'
 import Ubisoft from '../assets/images/Ubisoft.svg'
+import Inspur from '../assets/images/Inspur_logo.svg'
 
 import './About.css'
 
@@ -93,6 +94,36 @@ const About = () => {
                 <div className='experience'>
                     <img src={WorkIcon} alt=''/>
                     <img src={WorkText} alt='Experience'/>
+                </div>
+                <div className='company-container'>
+                    <div className='company-logo ubi-logo'>
+                        <img src={Inspur} alt='Ubisoft' width={55} height={50}/>
+                    </div>
+                    <div className='company-info'>
+                        <div className='row'>
+                            <div className='title'>
+                                Software Engineer
+                            </div>
+                            <div className='date'>
+                                2024.6 - 2023.8
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className='company-container'>
+                    <div className='company-logo ubi-logo'>
+                        <img src={BlueJay} alt='JHU' width={55} height={50}/>
+                    </div>
+                    <div className='company-info'>
+                        <div className='row'>
+                            <div className='title'>
+                                Course Assistant
+                            </div>
+                            <div className='date'>
+                                2024.1 - 2023.5
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div className='company-container'>
                     <div className='company-logo ubi-logo'>

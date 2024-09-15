@@ -33,7 +33,7 @@ const Profile = () => {
                     </a>
                 </div>
                 <div className='contact'>
-                    <a href='mailto:jun-yue.tao@outlook.com'>
+                    <a href='mailto:todd.tao.dev@gmail.com'>
                         <button>
                             <div className='button-text'>
                                 Contact Me
