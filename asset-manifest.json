@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.5c07e70d.css",
-    "main.js": "/static/js/main.1077641f.js",
+    "main.js": "/static/js/main.10cfc5e5.js",
     "static/media/UTransit.png": "/static/media/UTransit.ea9a677786c0c2702519.png",
     "static/media/background.png": "/static/media/background.46dc9e5c5486c107a481.png",
     "static/media/ray-tracer.png": "/static/media/ray-tracer.4fc5f14b2b182dd4b437.png",
     "static/media/goldy-gopher.png": "/static/media/goldy-gopher.2877b43d3f7b3727546b.png",
     "static/media/SecHand.png": "/static/media/SecHand.9391aea0bd942cc1ec92.png",
     "static/media/QYay.png": "/static/media/QYay.37034c855a5d23cfff14.png",
+    "static/media/Mario.png": "/static/media/Mario.a8c1b1e44ba2b5797b2c.png",
     "static/media/avatar-300.jpg": "/static/media/avatar-300.1547b851dd9f44cb7d91.jpg",
     "static/media/a-star-path.png": "/static/media/a-star-path.153f8d2af88d5e5fd73d.png",
     "static/media/blue-jay.svg": "/static/media/blue-jay.5860d77145271e8b2034e60d58049308.svg",
     "static/media/Work-text.svg": "/static/media/Work-text.d551b514034bd30b10fb2209185822f3.svg",
     "static/media/edu-text.svg": "/static/media/edu-text.15b2f6f2610e13f43d1ffe334abee1ca.svg",
     "static/media/About-text.svg": "/static/media/About-text.555655db9cd5de5a9662e59e20b23af3.svg",
+    "static/media/Inspur_logo.svg": "/static/media/Inspur_logo.a888e50d63271e970cda68ce0d507c3f.svg",
     "static/media/Ubisoft.svg": "/static/media/Ubisoft.86d1552081b41e7c55c7e7dfc77ce396.svg",
     "static/media/github.svg": "/static/media/github.df93196c3c47b43bddd63c072a46c1f6.svg",
     "static/media/Work.svg": "/static/media/Work.bfddc1bdf5b573ffc33a65291e59472d.svg",
@@ -22,10 +24,10 @@
     "static/media/About.svg": "/static/media/About.df4a8c9ce01b7404e4a85d95446b8b3a.svg",
     "static/media/education.svg": "/static/media/education.e99ff7566f71dee3d21c29cc04b89737.svg",
     "main.5c07e70d.css.map": "/static/css/main.5c07e70d.css.map",
-    "main.1077641f.js.map": "/static/js/main.1077641f.js.map"
+    "main.10cfc5e5.js.map": "/static/js/main.10cfc5e5.js.map"
   },
   "entrypoints": [
     "static/css/main.5c07e70d.css",
-    "static/js/main.1077641f.js"
+    "static/js/main.10cfc5e5.js"
   ]
 }
